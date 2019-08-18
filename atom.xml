@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gpsoftcc.github.io</id>
     <title>Must.cheng</title>
-    <updated>2019-08-18T02:37:42.255Z</updated>
+    <updated>2019-08-18T06:28:45.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gpsoftcc.github.io"/>
     <link rel="self" href="https://gpsoftcc.github.io/atom.xml"/>
@@ -11,13 +11,14 @@
     <icon>https://gpsoftcc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Must.cheng</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
+        <title type="html"><![CDATA[懒惰与焦虑]]></title>
         <id>https://gpsoftcc.github.io/post/test</id>
         <link href="https://gpsoftcc.github.io/post/test">
         </link>
         <updated>2019-08-18T01:57:00.000Z</updated>
-        <content type="html"><![CDATA[<p>上次建站应该是10几年前了<br>
-test</p>
+        <content type="html"><![CDATA[<p>感觉自己时长处于一种焦虑之中，觉得自己不够努力，还有很多事情要去做，但是因为自己的懒惰与好玩，事情并未如愿完成，然后再进入新一轮的焦虑之中。<br>
+今天该背的单词还没有背，该复习的题还没有刷，该备的课还没有备......<br>
+我感觉还是压力不够吧，有压力才有动力，虽然压力下挺累。</p>
 ]]></content>
     </entry>
 </feed>
