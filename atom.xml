@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gpsoftzcc.github.io</id>
     <title>Must.cheng</title>
-    <updated>2019-08-18T01:56:06.419Z</updated>
+    <updated>2019-08-18T01:57:42.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gpsoftzcc.github.io"/>
     <link rel="self" href="https://gpsoftzcc.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://gpsoftzcc.github.io/images/avatar.png</logo>
     <icon>https://gpsoftzcc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Must.cheng</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://gpsoftzcc.github.io/post/test</id>
+        <link href="https://gpsoftzcc.github.io/post/test">
+        </link>
+        <updated>2019-08-18T01:57:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://gpsoftzcc.github.io/post/hello-gridea</id>
