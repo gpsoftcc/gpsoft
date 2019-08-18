@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gpsoftzcc.github.io</id>
+    <id>https://gpsoftcc.github.io</id>
     <title>Must.cheng</title>
-    <updated>2019-08-18T01:57:42.694Z</updated>
+    <updated>2019-08-18T02:10:28.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gpsoftzcc.github.io"/>
-    <link rel="self" href="https://gpsoftzcc.github.io/atom.xml"/>
+    <link rel="alternate" href="https://gpsoftcc.github.io"/>
+    <link rel="self" href="https://gpsoftcc.github.io/atom.xml"/>
     <subtitle>foo fighters</subtitle>
-    <logo>https://gpsoftzcc.github.io/images/avatar.png</logo>
-    <icon>https://gpsoftzcc.github.io/favicon.ico</icon>
+    <logo>https://gpsoftcc.github.io/images/avatar.png</logo>
+    <icon>https://gpsoftcc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Must.cheng</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://gpsoftzcc.github.io/post/test</id>
-        <link href="https://gpsoftzcc.github.io/post/test">
+        <id>https://gpsoftcc.github.io/post/test</id>
+        <link href="https://gpsoftcc.github.io/post/test">
         </link>
         <updated>2019-08-18T01:57:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gpsoftzcc.github.io/post/hello-gridea</id>
-        <link href="https://gpsoftzcc.github.io/post/hello-gridea">
+        <id>https://gpsoftcc.github.io/post/hello-gridea</id>
+        <link href="https://gpsoftcc.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
