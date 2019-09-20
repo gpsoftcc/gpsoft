@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gpsoftcc.github.io</id>
     <title>Must.cheng</title>
-    <updated>2019-08-18T06:28:45.931Z</updated>
+    <updated>2019-09-20T08:56:52.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gpsoftcc.github.io"/>
     <link rel="self" href="https://gpsoftcc.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://gpsoftcc.github.io/images/avatar.png</logo>
     <icon>https://gpsoftcc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Must.cheng</rights>
+    <entry>
+        <title type="html"><![CDATA[The first diary in English]]></title>
+        <id>https://gpsoftcc.github.io/post/the-first-diary-in-english</id>
+        <link href="https://gpsoftcc.github.io/post/the-first-diary-in-english">
+        </link>
+        <updated>2019-09-20T08:24:48.000Z</updated>
+        <content type="html"><![CDATA[<p>I think I should write a diary in English every day because it can help me to improve my English writing skills. In the beginning, there will be a lot of mistakes. But I believe that my English writing skills will be improved if I insist on do it.<br>
+Now, I understand one thing through many years of exam--- If your mother language writing skills are not really good, maybe your English writing skills are not good too, because if you don't know how to write a good article in your native language, you also don't know how to write a good article in English. I think it is easy to understand.<br>
+In recent days, I study English most of the time and I always feel time flies. It is a really good thing. Because if you feel time flies you must like the things which you are doing now.<br>
+Wow, although this diary is written very terrible, it cost me a lot of time. It is time to go to work.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[懒惰与焦虑]]></title>
         <id>https://gpsoftcc.github.io/post/test</id>

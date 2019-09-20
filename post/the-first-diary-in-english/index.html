@@ -1,9 +1,11 @@
+
+<!DOCTYPE html>
 <html>
   <head>
     
 <meta charset="utf-8" >
 
-<title>Must.cheng</title>
+<title>The first diary in English | Must.cheng</title>
 <meta name="description" content="foo fighters">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://gpsoftcc.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -69,15 +77,43 @@
 </transition>
 
 
-        <div class="content-container">
+      <div class="content-container">
+        <div class="post-detail">
           
-          <div class="tags-container">
+          <h2 class="post-title">The first diary in English</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2019-09-20</span>
             
           </div>
+          <div class="post-content">
+            <p>I think I should write a diary in English every day because it can help me to improve my English writing skills. In the beginning, there will be a lot of mistakes. But I believe that my English writing skills will be improved if I insist on do it.<br>
+Now, I understand one thing through many years of exam--- If your mother language writing skills are not really good, maybe your English writing skills are not good too, because if you don't know how to write a good article in your native language, you also don't know how to write a good article in English. I think it is easy to understand.<br>
+In recent days, I study English most of the time and I always feel time flies. It is a really good thing. Because if you feel time flies you must like the things which you are doing now.<br>
+Wow, although this diary is written very terrible, it cost me a lot of time. It is time to go to work.</p>
 
+          </div>
         </div>
 
-        <div class="site-footer">
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://gpsoftcc.github.io/post/test">
+              <h3 class="post-title">
+                下一篇：懒惰与焦虑
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
   <div class="slogan">foo fighters</div>
   <div class="social-container">
     
@@ -96,8 +132,8 @@
 </div>
 
 
-      </div>
-      <script type="application/javascript">
+    </div>
+    <script type="application/javascript">
 
 hljs.initHighlightingOnLoad()
 
@@ -112,7 +148,29 @@ var app = new Vue({
 
 
 
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
 
-    </div>
+      var gitalk = new Gitalk({
+        clientID: 'd7054836b01ea9c23e94',
+        clientSecret: 'd0c4774e3bca0b2ac653994aaefbf24f44849c7d',
+        repo: 'gpsoftcc.github.io',
+        owner: 'gpsoftcc',
+        admin: ['gpsoftcc'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
   </body>
 </html>
